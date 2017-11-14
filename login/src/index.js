@@ -9,7 +9,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="云适配" />
-    <h2>登陆模版{'\u2728'}</h2>
+    <h2>《登陆模版》{'\u2728'}</h2>
   </div>
 );
 
