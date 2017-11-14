@@ -8,8 +8,8 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
-    <Hello name="CodeSandbox" />
-    <h2>Start wxl1 editing to see some magic happen {'\u2728'}</h2>
+    <Hello name="云适配" />
+    <h2>登陆模版{'\u2728'}</h2>
   </div>
 );
 
